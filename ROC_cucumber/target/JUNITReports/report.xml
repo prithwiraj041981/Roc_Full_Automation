@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.85" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Login in ROC" name="This is scenerio of valid user login - Example #1.1" time="0.042">
+<failure/>
+<system-out><![CDATA[
+Given User is on ROCLogin page..............................................undefined
+When User enters username as 'prithwiraj011981@mailinator.com' and password as 'Mylogin@123'.skipped
+Then User should be able to login sucessfully to landlord and new Homepage open.skipped
+]]></system-out>
+</testcase>
+</testsuite>

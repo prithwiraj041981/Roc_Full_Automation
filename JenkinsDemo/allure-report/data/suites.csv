@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 11 22:25:56 IST 2023","Sun Jun 11 22:26:00 IST 2023","4020","Default suite","Default test","Testcases.AllureAnnotations","Testcases.AllureAnnotations","fail","TestNG description 2","Verify fail sceanrio"
+"broken","Sun Jun 11 19:36:42 IST 2023","Sun Jun 11 19:36:42 IST 2023","8","Default suite","Default test","Testcases.AllureAnnotations","Testcases.AllureAnnotations","setUp","setUp",""
+"passed","Sun Jun 11 22:25:42 IST 2023","Sun Jun 11 22:25:56 IST 2023","13637","Default suite","Default test","Testcases.AllureAnnotations","Testcases.AllureAnnotations","login","TestNG description 1","Verify login"

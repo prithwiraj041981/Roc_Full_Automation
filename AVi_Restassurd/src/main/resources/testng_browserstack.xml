@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Browserstack test automation regression suite" 
+		thread-count="4" parallel="tests" verbose = "4">
+	<listeners>
+		<listener
+			class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+	
+    <test name="BrowserStack on - FF">
+        <parameter name="os" value="Windows"/>
+        <parameter name="os_version" value="10"/>
+        <parameter name="browser" value="Firefox"/>
+        <parameter name="browser_version" value="80.0"/>
+             
+        <classes>
+            <class name="com.crm.qa.testcases.SAMTest"/>
+            
+        </classes>
+    </test>
+
+    <test name="BrowserStack on - Chrome">
+        <parameter name="os" value="Windows"/>
+        <parameter name="os_version" value="10"/>
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="browser_version" value="87.0"/>
+        
+        <classes>
+            <class name="com.crm.qa.testcases.SAMTest"/>
+            
+        </classes>
+    </test>
+
+	<test name="BrowserStack on - Safari">
+        <parameter name="os" value="OS X"/>
+        <parameter name="os_version" value="Catalina"/>
+        <parameter name="browser" value="Safari"/>
+        <parameter name="browser_version" value="13.1"/>
+        
+        <classes>
+            <class name="com.crm.qa.testcases.SAMTest"/>
+        </classes>
+    </test>
+
+    <test name="BrowserStack on - Edge">
+        <parameter name="os" value="Windows"/>
+        <parameter name="os_version" value="10"/>
+        <parameter name="browser" value="Edge"/>
+        <parameter name="browser_version" value="88.0"/>
+        
+        <classes>
+            <class name="com.crm.qa.testcases.SAMTest"/>
+        </classes>
+    </test>
+
+</suite>

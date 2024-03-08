@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Addproperty.java&apos; to &apos;ROC_Automation/src/main/java/Pages&apos;&#x0D;&#x0A;- Original project: &apos;RentOcloud&apos;&#x0D;&#x0A;- Destination element: &apos;ROC_Automation/src/main/java/Pages&apos;&#x0D;&#x0A;- Original element: &apos;Pages.Addproperty.java&apos;" description="Copy compilation unit" destination="=ROC_Automation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Pages" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Pages{Addproperty.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1678519836358" units="1" version="1.0"/>
+</session>

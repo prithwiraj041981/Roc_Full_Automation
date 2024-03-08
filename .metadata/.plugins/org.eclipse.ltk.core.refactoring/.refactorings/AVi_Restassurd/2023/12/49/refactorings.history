@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;testng_api.xml&apos; to &apos;ROC_Restassured&apos;&#x0D;&#x0A;- Original project: &apos;AVi_Restassurd&apos;&#x0D;&#x0A;- Destination element: &apos;ROC_Restassured&apos;&#x0D;&#x0A;- Original element: &apos;testng_api.xml&apos;" description="Copy file" element1="src/main/resources/testng_api.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1701615573680" target="/ROC_Restassured" units="0" version="1.0"/>
+</session>

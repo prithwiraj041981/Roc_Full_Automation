@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;datafile.properties&apos; to &apos;ebaywebsite/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;ROC_Automation&apos;&#x0D;&#x0A;- Destination element: &apos;ebaywebsite/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;datafile.properties&apos;" description="Copy file" destination="=ebaywebsite/src\/main\/resources=/maven.pomderived=/true=/" element1="src/main/resources/datafile.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681454868654" units="0" version="1.0"/>
+</session>
