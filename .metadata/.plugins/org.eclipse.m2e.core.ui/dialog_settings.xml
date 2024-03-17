@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="c://"/>
+			<item value="C:\ROC\ROC"/>
+			<item value="C:\ROC\ROC_Automation"/>
 			<item value="C:\ROC\latestcucumber\target\Reports\Roc-reports.html"/>
 			<item value="C:\ROC\AvijitFlight\src\main\java"/>
 			<item value="C:\ROC\ebaywebsite\src\main\java\pages\browserstack1.java"/>
@@ -53,27 +56,26 @@
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 			<item value="com"/>
-			<item value="group_id"/>
-			<item value="ccom"/>
+			<item value="test"/>
+			<item value="dom"/>
+			<item value="form"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="ROC_CuCumber_Report"/>
-			<item value="ROC_Restassured"/>
-			<item value="AVi_Restassurd"/>
-			<item value="ROC_Allure_Report"/>
-			<item value="oriject"/>
-			<item value="AvijitFlight"/>
-			<item value="Flightbooking"/>
-			<item value="Example"/>
-			<item value="cucumberHooks"/>
-			<item value="report_worked_cucumber"/>
-			<item value="reportcucumber"/>
-			<item value="latestcucumber"/>
-			<item value="tutumber"/>
-			<item value="cucumber"/>
-			<item value="ROC_cucumber"/>
+			<item value="test10"/>
+			<item value="test9"/>
+			<item value="test8"/>
+			<item value="test7"/>
+			<item value="test6"/>
+			<item value="tatin"/>
+			<item value="dartan"/>
+			<item value="test4"/>
+			<item value="test3"/>
+			<item value="test2"/>
+			<item value="test"/>
+			<item value="prithvi"/>
+			<item value="Earth"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
